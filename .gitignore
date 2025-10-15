@@ -17,12 +17,12 @@ data/
 *.ckpt
 
 # VSCode
-.vscode/
+**/.vscode/
 
 # OS files
 .DS_Store
 
 
-build/
+**/build/
 
 
