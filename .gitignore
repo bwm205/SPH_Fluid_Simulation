@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data / models (don’t version huge raw data)
+data/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+
+
+build/
+
+
